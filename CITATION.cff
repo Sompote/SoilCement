@@ -8,6 +8,8 @@ authors:
   - family-names: Jongpradist
     given-names: Pornkasem
     affiliation: "King Mongkut's University of Technology Thonburi"
+  - family-names: Phutthananon
+    given-names: Chana
 version: 1.0.0
 preferred-citation:
   type: article
@@ -17,3 +19,5 @@ preferred-citation:
       given-names: Sompote
     - family-names: Jongpradist
       given-names: Pornkasem
+    - family-names: Phutthananon
+      given-names: Chana

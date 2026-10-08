@@ -4,7 +4,7 @@
 
 This repository holds the data, the fitted models and a command-line tool from the paper
 
-> Youwai S., Jongpradist P. *Predicting the strength of cement-admixed clay from a few trial mixes using a worldwide corpus of 38 clay deposits.* (submitted)
+> Youwai S., Jongpradist P., Phutthananon C. *Predicting the strength of cement-admixed clay from a few trial mixes using a worldwide corpus of 38 clay deposits.* (submitted)
 
 A deep-mixing project usually affords only a handful of laboratory trial mixes on its own clay. `soilcement` takes those trial mixes, the liquid limit and plasticity index of the clay, and the corpus of 1,372 published mixes. It then predicts the laboratory strength of every other mix you plan to use, with an 80 % interval. Nothing is trained on your project: the trial mixes are added to the corpus as context and the prediction is a single forward pass.
 

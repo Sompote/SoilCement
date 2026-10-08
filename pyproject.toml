@@ -9,7 +9,7 @@ description = "Strength of cement-admixed clay from Atterberg limits and a few t
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "Sompote Youwai" }, { name = "Pornkasem Jongpradist" }]
+authors = [{ name = "Sompote Youwai" }, { name = "Pornkasem Jongpradist" }, { name = "Chana Phutthananon" }]
 keywords = ["geotechnical engineering", "deep mixing", "cement-admixed clay", "in-context learning", "TabICL", "TabPFN"]
 dependencies = ["numpy>=1.22", "pandas>=1.5", "scipy>=1.9"]
 
