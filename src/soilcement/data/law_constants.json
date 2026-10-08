@@ -1,0 +1,13 @@
+{
+ "alpha": 8.30111953043471,
+ "beta": 2.464600141438495,
+ "a": 0.5836858934866677,
+ "b": 0.11060859361277267,
+ "c": 0.5329485382897072,
+ "wL_threshold": 0.6,
+ "s_phi": 0.12,
+ "s_delta": 0.6376237131191782,
+ "s_y": 0.5055089992833264,
+ "fitted_on": "corpus_main.csv, 1,372 mixes from 38 deposits",
+ "equation": "ln qu = alpha - beta*[ln((1-phi)*Cw/100) - a*ln(Ac/100) - b*ln(t/28)] + delta; phi prior N(c*max(0,wL-0.6), s_phi) on [0,0.9]; delta prior N(0, s_delta); noise s_y"
+}

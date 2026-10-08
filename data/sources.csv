@@ -1,0 +1,41 @@
+source,kind,country,deposits,mixes,recovery,test
+Liu (2022),PhD thesis,Australia,Port of Brisbane soft marine clay,60,table,UCS
+Flores et al. (2010),journal,Belgium,Kaolin,18,vector figure,UCS
+Monsif (2021),MASc thesis,Canada,Champlain Sea clay,28,table,UCS
+Sasanian (2011),PhD thesis,"Canada, UK, USA","EPK kaolin, Nanticoke clay, Ottawa clay, Speswhite kaolin",70,vector figure,vane
+Bian & Wang (2016),conference,China,Nanjing dredged clay,4,vector figure,UCS
+Cao et al. (2022),journal,China,Huaihe River lake sediment,35,vector figure,UCS
+Liang et al. (2014),conference,China,Nansha soft silt,12,table,UCS
+Ma et al. (2016),conference,China,Shanghai soft clay,6,vector figure,UCS
+Materials (2024),journal,China,Qiantang River silty clay,24,tabulated fits,UCS
+Shen et al. (2019),journal,China,Ningbo muddy clay,10,table,UCS
+Zhu et al. (2022),journal,China,Zhaoqing dredged sludge,3,text,UCS
+Hassan (2009),licentiate thesis,Finland,"Kuopio clay, Otaniemi clay",16,vector figure,UCS
+Lopez Ramirez et al. (2024),journal,Finland,Malmi clay,23,vector figure,UCS
+Ho et al. (2021),journal,Hong Kong,Hong Kong marine clay,9,vector figure,UCS
+Jiao & Zhou (2023),conference,Hong Kong,Hong Kong marine clay,3,vector figure,UCS
+Indonesian Geotechnical Journal (2026),journal,Indonesia,Patimban marine clay,40,vector figure,UCS
+Hara et al. (2022),journal,Japan,Ariake clay,11,vector figure,UCS
+Kalim et al. (2017),journal,Japan,Tokuyama clay,12,vector figure,UCS
+Kang et al. (2016),conference,Japan,Tokuyama clay,71,vector figure,UCS/vane
+Koslanant (2006),PhD thesis,Japan,"Ariake clay, Bangkok clay",8,vector figure,UCS
+"Onitsuka et al. (2001, 2003)",journal,Japan,Ariake clay,6,text,UCS
+Tsuchida & Shimakawa (2012),journal,Japan,Mizushima port clay,62,vector figure,UCS/vane
+Tsuchida et al. (2013),journal,Japan,"Hibiki clay, Moji port clay",40,vector figure,UCS/vane
+Chan (2016),journal,Malaysia,Tok Bali dredged marine clay,25,vector figure,UCS
+Falle (2021),MSc thesis,Norway,Norwegian low-plastic marine clay,3,table,UCS
+Xiao & Lee (2008),journal,Singapore,Singapore marine clay,24,table,UCS
+Yao et al. (2020),journal,Singapore,Singapore marine clay,34,vector figure,UCS
+Åhnberg et al. (2003),journal,Sweden,"Linkoping clay, Loftabro clay",58,vector figure,UCS
+"Horpibulsuk et al. (2011a), biomass ash",journal,Thailand,Bangkok clay,36,table,UCS
+"Horpibulsuk et al. (2011a), fly ash",journal,Thailand,Bangkok clay,27,table,UCS
+Horpibulsuk et al. (2011b),journal,Thailand,Bangkok clay,12,table,UCS
+Jongpradist et al. (2018),journal,Thailand,Bangkok clay,181,vector figure,UCS
+Pochalard et al. (2025),journal,Thailand,Bangkok clay,24,table,UCS
+Timoney (2015),PhD thesis,UK,Kinnegar sleech,6,table,UCS
+Bennett (2019),MS thesis,USA,VT artificial lean clay,14,table,UCS
+Ju (2018),MS thesis,USA,"VT artificial fat clay, VT artificial lean clay",64,table,UCS
+Ju (2023),PhD thesis,USA,VT artificial lean clay,77,table,UCS
+Nevárez Garibaldi (2017),MS thesis,USA,VT artificial lean clay,36,table,UCS
+Ngoc (2022),journal,Vietnam,"Mekong delta clay mud, Mekong delta soft clay, Mekong delta soft sandy clay",144,table,UCS
+Truong et al. (2020),journal,Vietnam,"Nghe An coastal soft soil, Thanh Hoa coastal soft clay",36,table,UCS

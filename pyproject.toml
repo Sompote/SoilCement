@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "soilcement"
+version = "1.0.0"
+description = "Strength of cement-admixed clay from Atterberg limits and a few trial mixes, with a worldwide corpus of 38 clay deposits"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Sompote Youwai" }, { name = "Pornkasem Jongpradist" }]
+keywords = ["geotechnical engineering", "deep mixing", "cement-admixed clay", "in-context learning", "TabICL", "TabPFN"]
+dependencies = ["numpy>=1.22", "pandas>=1.5", "scipy>=1.9"]
+
+[project.optional-dependencies]
+tabicl = ["tabicl", "torch>=2.2", "numpy<2; sys_platform == 'darwin' and platform_machine == 'x86_64'"]
+tabpfn = ["tabpfn>=9.1", "torch>=2.5", "huggingface_hub"]
+all = ["tabicl", "tabpfn>=9.1", "torch>=2.5", "huggingface_hub"]
+dev = ["pytest"]
+
+[project.scripts]
+soilcement = "soilcement.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+soilcement = ["data/*.csv", "data/*.json"]

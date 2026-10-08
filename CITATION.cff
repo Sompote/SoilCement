@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper below."
+title: "soilcement: strength of cement-admixed clay from Atterberg limits and a few trial mixes"
+authors:
+  - family-names: Youwai
+    given-names: Sompote
+    affiliation: "King Mongkut's University of Technology Thonburi"
+  - family-names: Jongpradist
+    given-names: Pornkasem
+    affiliation: "King Mongkut's University of Technology Thonburi"
+version: 1.0.0
+preferred-citation:
+  type: article
+  title: "Predicting the strength of cement-admixed clay from a few trial mixes using a worldwide corpus of 38 clay deposits"
+  authors:
+    - family-names: Youwai
+      given-names: Sompote
+    - family-names: Jongpradist
+      given-names: Pornkasem
